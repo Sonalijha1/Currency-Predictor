@@ -23,9 +23,13 @@ Upload a currency embedding (CSV with 256 features) and get an instant predictio
 ## 📂 Project Structure
 currency_classifier/
 ├── app.py ← Streamlit Web App
+
 ├── currency_model.pkl ← Trained ML Model
+
 ├── label_encoder.pkl ← Label decoder
+
 ├── test_inr.csv ← Sample test input (optional)
+
 └── README.md
 
 ## 📈 Model Details
